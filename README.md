@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahmidhasantanoy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tahmid-aitaghyeer&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,8 +13,7 @@
 ## 👨‍💻 About Me
 
 ```text
-Name       : Tanoy
+Name       : Tahmid
 Role       : Software Engineer
 Specialty  : Turning coffee into backend services ☕
-Current OS : Linux 🐧
 Status     : Probably debugging something...
