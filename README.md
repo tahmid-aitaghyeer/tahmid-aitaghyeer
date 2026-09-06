@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Tanoy!
 
-<!--
-**tahmid-aitaghyeer/tahmid-aitaghyeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer by profession, debugger by survival instinct. 🧑‍💻
 
-Here are some ideas to get you started:
+I write code, break code, fix code...
+and sometimes blame the database. 😌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Thinking About
+
+- ☕ Why does my code work after restarting?
+- 🐳 Why is Docker taking 4 minutes to start?
+- 🦘 Why did Kafka lose its leader?
+- 🗃️ Is this a MongoDB problem or a me problem?
+- 🔥 Who touched `package-lock.json`?
+- 🚀 Can I reduce this API from 3s to 300ms?
+
+---
+
+## 🛠️ My Daily Weapons
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,mongodb,postgres,redis,kafka,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## 💻 What I Do
+
+```ts
+while (alive) {
+  writeCode();
+  debug();
+  drinkCoffee();
+  google();
+  fixBug();
+  deploy();
+}
