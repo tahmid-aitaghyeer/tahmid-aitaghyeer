@@ -1,37 +1,20 @@
-# 👋 Hey, I'm Tanoy!
+<!-- Animated Header -->
 
-> Software Engineer by profession, debugger by survival instinct. 🧑‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanoy+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;I+Build+Things+That+Sometimes+Work+%F0%9F%98%82;Backend+%7C+Microservices+%7C+Coffee+%E2%98%95;Welcome+to+my+little+corner+of+GitHub+%F0%9F%9A%80" />
+</p>
 
-I write code, break code, fix code...
-and sometimes blame the database. 😌
-
-### 🧠 Currently Thinking About
-
-- ☕ Why does my code work after restarting?
-- 🐳 Why is Docker taking 4 minutes to start?
-- 🦘 Why did Kafka lose its leader?
-- 🗃️ Is this a MongoDB problem or a me problem?
-- 🔥 Who touched `package-lock.json`?
-- 🚀 Can I reduce this API from 3s to 300ms?
-
----
-
-## 🛠️ My Daily Weapons
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,mongodb,postgres,redis,kafka,docker,git,github,linux,vscode" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahmidhasantanoy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💻 What I Do
+## 👨‍💻 About Me
 
-```ts
-while (alive) {
-  writeCode();
-  debug();
-  drinkCoffee();
-  google();
-  fixBug();
-  deploy();
-}
+```text
+Name       : Tanoy
+Role       : Software Engineer
+Specialty  : Turning coffee into backend services ☕
+Current OS : Linux 🐧
+Status     : Probably debugging something...
